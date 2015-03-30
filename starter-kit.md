@@ -42,6 +42,7 @@ It'll go stale and lose its flavour much faster than the whole spice will.
  * Hungarian paprika (ground)
  * Ginger (ground)
  * Cayenne (ground)
+ * Red pepper flake
 
 ### Dried herbs
 
@@ -82,11 +83,13 @@ Not as essential as the above, but still very useful:
  * A selection of dried beans -- pinto, haricot, black turtle and kidney beans
    are a good start. Big bags of these cost next to nothing and last forever.
  * Mushrooms -- porcini mushrooms dry well, and pack an awful lot of flavour.
+ * Kombu
 
 ### Tinned foods
 
  * Whole tomatoes
  * Chipotles in adobo
+ * Tomato paste
 
 ### Sauces
 
@@ -96,4 +99,16 @@ Not as essential as the above, but still very useful:
  * Hot sauce -- a mild, vinegar-based one and as many hotter versions as you
    like. Apart from as a table condiment, these are always useful to give a bit
    more interest to casseroles, tomato-based sauces and anything else you fancy.
+
+### Jarred stuff
+ * English or German mustard
+ * Dijon mustard
+ * Whole grain mustard
+ * Bouillon base
+ 
+### Grains
+ * All-purpose flour
+ * short grain rice
+ * Dried pasta (whole semolina)
+ * Quinoa
 
