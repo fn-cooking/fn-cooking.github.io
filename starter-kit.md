@@ -83,7 +83,6 @@ Not as essential as the above, but still very useful:
  * A selection of dried beans -- pinto, haricot, black turtle and kidney beans
    are a good start. Big bags of these cost next to nothing and last forever.
  * Mushrooms -- porcini mushrooms dry well, and pack an awful lot of flavour.
- * Kombu
 
 ### Tinned foods
 
