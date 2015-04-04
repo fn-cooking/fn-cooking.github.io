@@ -1,10 +1,12 @@
 # ChuoTang - Denjang soup with ground fish in
 
-*the original recipes in korean only use loach, you can use eel.*
+*the original recipes in korean only use loach, but you can use eel.*
+
+Sample photo of end result: http://imgur.com/qlD0kXL
 
 # ingredients
 
-500g ell, 3tbsp Denjang, 200g cabbage, 100g sprouts, 50g chives, 1 small chili, 1 large Spring onion stalk.
+500g eel, 3tbsp Denjang, 200g cabbage, 100g sprouts, 50g chives, 1 small chili, 1 large Spring onion stalk.
 
 # Prep
 
@@ -26,7 +28,9 @@
 
 4. Add sprouts and spring onion. Boil for 1 min on high heat
 
-5. Serve with ground sesame seed, coriander, perilla leaf.
+5. top with ground sesame seed, coriander, perilla leaf.
+
+6. serve with rice or potato
 
 
 # Note
