@@ -1,3 +1,8 @@
+---
+title: Starter Kit
+layout: page
+permalink: /starter-kit/
+---
 # The ##cooking starter kit
 
 
