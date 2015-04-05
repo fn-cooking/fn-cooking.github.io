@@ -9,6 +9,6 @@ to insert a recipe:
        title: Your Title  
        \---
 
-        * (look at the markdown for other recipes for examples)
+        * look at the markdown of other recipes for examples
 
    3. Once the new .md is committed, the recipe can be found at http://localhost:4000/recipes/your-recipe 
