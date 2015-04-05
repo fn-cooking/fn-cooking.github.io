@@ -1,5 +1,5 @@
 ---
-title: ChuoTang - Denjang soup with ground fish in
+title: ChuoTang(Denjang soup with ground fish)
 ---
 
 *the original recipes in korean only use loach, but you can use eel.*
