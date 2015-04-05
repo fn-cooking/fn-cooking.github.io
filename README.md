@@ -5,9 +5,9 @@ to insert a recipe:
   1.  navigate to the `_recipes` directory. 
   2.  create a new `your-recipe.md` file and insert the following at the top: 
   
-        ```markdown
+        ```
        ---
-       title: Guacamole
+       title: Your Title
        ---
        ``` 
 
