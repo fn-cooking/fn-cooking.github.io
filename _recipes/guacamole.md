@@ -3,6 +3,7 @@ title: Guacamole
 ---
 ![](http://4.bp.blogspot.com/-l10lTgxQ9So/TiGXrOSQvcI/AAAAAAAAAcY/5xWNHHovXfc/s400/guacamole.jpg)
 
+
 # ingredients
 
 2 ripe avocados
