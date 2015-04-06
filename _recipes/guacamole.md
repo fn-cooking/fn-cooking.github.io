@@ -11,7 +11,7 @@ title: Guacamole
 * 1/4 cup diced white onion
 * 1 chile serrano
 * 1 lime
-* 1/4 cut chopped cilantro
+* 1/4 cup chopped cilantro
 * salt & pepper
 
 # prep
