@@ -1,13 +1,21 @@
 For three Portions of Linseneintopf (lentil stew), german recipe
 
 1500 ml 	 Water
+
 300 g 		 pork belly, smoked
+
 250 g 		 green Lentils
+
 1 stick 	leek 
+
 2 medium sized 	carrot
+
 some 		root celery
+
 1  		laurel leaf
+
 1 stick 	lovage
+
 120 g 		german noodles (Spaetzle)
 1 table spoon		mustard, medium hot
   		broth
