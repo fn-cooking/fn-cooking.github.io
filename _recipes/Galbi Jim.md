@@ -7,6 +7,7 @@ Ts = Tea Spoon
 
 * Main Ingredients
 	1.2KG	Beef ribs with bones, preferablly chopped in cubic sizes
+	600ml Beef/Vege Stock or Water(This, If you want your stew to be mild, go for vege stock, if you want it beefy, beef stock, altho traditional recipe calls for water where stock is naturally created in the process)
 
 * Sauce Ingredients	
 	6 Tbs of soysauce(any variety, but I don't recommend typical kikkoman table soysauce, because its too sweet and lacks body)
@@ -65,7 +66,7 @@ Ts = Tea Spoon
 
 4) marinade the blanched meat for minumum longer than 3 hrs
 
-5) Add the ribs and veges in pressure cooker, Bring upto boil for 5 mins, reduce the heat to low and simmer 7 mins.
+5) Add the ribs, stock and veges in pressure cooker, Bring upto boil for 5 mins, reduce the heat to low and simmer 7 mins.
 
 6) After that, turn the gas off and let it joli* for next 15mins
 
