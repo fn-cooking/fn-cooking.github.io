@@ -1,6 +1,8 @@
-Galbi jim (Korean Braised Ribs)
+---
+title: Galbi jim (Korean Braised Ribs)
+---
 
-* Image Link, http://i.imgur.com/mh9LMRA.png
+![](http://i.imgur.com/mh9LMRA.png)
 
 Tbs = Table Spoon
 Ts = Tea Spoon
