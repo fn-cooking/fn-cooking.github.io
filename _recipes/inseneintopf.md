@@ -1,3 +1,7 @@
+---
+title: Liseneintopf (lentil stew)
+---
+
 For three Portions of Linseneintopf (lentil stew), german recipe
 
 1500 ml 	 Water
