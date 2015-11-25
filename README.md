@@ -1,4 +1,4 @@
-# jekyll page for cooking :curry:
+# ##cooking :curry:
 
 to contribute a recipe:
   
