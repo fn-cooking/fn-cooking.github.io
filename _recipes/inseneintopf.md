@@ -6,6 +6,7 @@ Linseneintopf is German for "lentil stew".
 
 # Ingredients
 for 3 portions:
+
 * 1500ml water
 * 300g pork belly, smoked
 * 250g green lentils
