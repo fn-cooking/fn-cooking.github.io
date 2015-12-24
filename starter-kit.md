@@ -51,7 +51,7 @@ It'll go stale and lose its flavour much faster than the whole spice will.
 
 ### Dried herbs
 
-These are the herbs that work best when fried. Others (tarragon, basil, parsley,
+These are the herbs that work best when dried. Others (tarragon, basil, parsley,
 etc.) don't dry well, and should be bought fresh when you need them.
 
  * Bay
