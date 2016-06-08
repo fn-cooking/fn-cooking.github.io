@@ -21,7 +21,7 @@ Contributed by Zeno`
 * 0.25 tsp ground cumin
 
 # How to
-1. Set aside the sweet paprika, cumin and 1/2 a teaspoon of the chilli powder
+1. Set aside the sweet paprika, _ground_ cumin and 1/2 a teaspoon of the chilli powder
 2. In a saucepan, bring the oil to a low heat and add the remainder of ingredients
 3. Let the spices steep in the oil for at least 30 minutes, keeping the oil warm but not hot
 4. Bring the mixture to a high heat and pour over the spices reserved in step 1
