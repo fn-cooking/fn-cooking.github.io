@@ -1,5 +1,5 @@
 ---
-Chinese-inspired chilli oil
+title: Chinese-inspired chilli oil
 ---
 _For stir frying_
 
