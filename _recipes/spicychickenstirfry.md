@@ -6,7 +6,6 @@ _Contributed by Zeno`_
 Inspired by Chongquing Chicken
 
 # Ingredients
-_All measurements are metric_
 * 4 chicken thighs (boned)
 * 1-2 cups peanut oil for deep frying
 * 5cm piece of ginger, sliced thinly
@@ -36,3 +35,6 @@ _All measurements are metric_
 4. Remove peanut oil from wok and put aside to discard or reuse. Wipe wok with paper towel
 5. Add chilli oil to the wok over a medium heat. Add the Sichuan peppercorns and stir for approximately 30 seconds. Add the remainder of the ingredients apart from the sesame oil, sesame seeds, and the green portions of the scallion. Stir fry
 6. Return the cooked chicken pieces to the wok until heated through. Add sesame oil, sesame seeds and green portions of the onions. Stir fry for about another 30 seconds
+
+# Notes
+* _All measurements are metric_
